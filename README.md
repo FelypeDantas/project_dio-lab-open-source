@@ -52,6 +52,9 @@ Para concluir este Desafio de Projeto, basta enviar a **URL do seu "fork" de um 
 > [!NOTE]   
 > Por exemplo, a URL https://github.com/falvojr/dio-lab-open-source é o "**fork**" feito pelo usuário do GitHub "`falvojr`" para a contribuição no repositório `dio-lab-open-source`.
 
+> [!NOTE]
+> Ao tentar ser criado o Clone com o git o prompt infelizmente não conseguiu baixar pois atualmente o repositório possui muitos arquivos, sugestão seria usar o [Github Desktop](https://github.com/apps/desktop) no momento pois mesmo demorando ainda sera possivel o clone.
+
 ### Contribua com seu Profile README
 Para contribuir neste repositório, uma das formas é através da contribuição no diretório "**community**", criando um Profile README contendo informações sobre você que deseje compartilhar com a comunidade. <br>
 Para isso, você pode inserir: badges indicando suas habilidades; cards com suas estatísticas no GitHub e projetos que criou, colaborou ou que deseje que outras pessoas colaborem. Além disso, você pode inserir também links para seus desafios de projeto e artigos na plataforma da [Digital Innovation One](https://www.dio.me/). <br>
